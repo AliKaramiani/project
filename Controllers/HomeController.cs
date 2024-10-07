@@ -1,12 +1,12 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Test.Models;
+
 
 namespace Test.Controllers;
 
 public class HomeController : Controller
 {
-    
+
 
     public IActionResult Index()
     {
@@ -18,6 +18,11 @@ public class HomeController : Controller
         return View();
     }
 
-   public IActionResult Login()
-   { return View();}
+    public IActionResult Login()
+    { return View(); }
+    public IActionResult forgot()
+    {
+        return View();
+    }
+    
 }

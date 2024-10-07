@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "47ZOMcE/XOwWj/iqckJkkCD9/HimoAOoMUAR9pcKeHc=",
+  "Hash": "HCjDd86rIlJD6XEHy4U2P29oBatYJ7naqkfD+lFfl8Q=",
   "Source": "Test",
   "BasePath": "_content/Test",
   "Mode": "Default",
@@ -889,6 +889,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\branding\\brand-img-small.png"
+    },
+    {
+      "Identity": "C:\\Users\\a.karamiani\\Desktop\\test\\Test\\wwwroot\\assets\\img\\branding\\gg.png.webp",
+      "SourceId": "Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\a.karamiani\\Desktop\\test\\Test\\wwwroot\\",
+      "BasePath": "_content/Test",
+      "RelativePath": "assets/img/branding/gg.png.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\branding\\gg.png.webp"
     },
     {
       "Identity": "C:\\Users\\a.karamiani\\Desktop\\test\\Test\\wwwroot\\assets\\img\\branding\\logo.png",
